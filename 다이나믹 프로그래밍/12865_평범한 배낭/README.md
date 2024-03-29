@@ -24,6 +24,3 @@
 
 ## 예제 출력
 14
-
-## Contact
-- Da_rong_00@hanjin.ac.kr
